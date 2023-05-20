@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\bin\Debug\production-activity.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\bin\Debug\production-activity.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\bin\Debug\production-activity.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production_activity.Form1.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production_activity.Properties.Resources.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\production-activity\production-activity\obj\Debug\production-activity.pdb
